@@ -341,9 +341,9 @@
             this.pictureBox2.BackColor = System.Drawing.Color.Transparent;
             this.pictureBox2.BackgroundImage = global::Vistas.Properties.Resources.icono_4;
             this.pictureBox2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pictureBox2.Location = new System.Drawing.Point(190, 125);
+            this.pictureBox2.Location = new System.Drawing.Point(136, 110);
             this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(407, 193);
+            this.pictureBox2.Size = new System.Drawing.Size(491, 253);
             this.pictureBox2.TabIndex = 0;
             this.pictureBox2.TabStop = false;
             // 
